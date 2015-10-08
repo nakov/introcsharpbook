@@ -1,0 +1,12 @@
+Задачи по сайта на C# / Java книгата:
+-------------------------------------
+
+
+1) главната страница
+ - да се сложи FB Like / Google +1 / Twitter buttons
+ - Social Share да изглежда като в тази страница: http://www.searchtechword.com/2012/01/faq-for-wordpress-plugin-twitter-facebook-google-plus-one-social-share/ 
+ 
+2) в българските страници (в самата тема) да се преведат специалните думи от темата на български. Това се отнася за C# BG и за Java книгата. На английската книга да си остане всичко на английски
+ - Tags, Comments are closed, Submit Comment, Logged in as, Log out, [edit], One Response to, ...
+
+1) да се сложат тагове за всяка глава на сайта (с цел SEO)

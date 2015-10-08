@@ -1,0 +1,126 @@
+Title: Fundamentals of Computer Programming with C#
+ISBN: 9789544007737
+ISBN-13: 978-954-400-773-7 (9789544007737)
+ISBN-10: 954-400-773-3 (9544007733)
+Author: Svetlin Nakov & Co.
+Pages: 1122 (323600 words)
+Language: English
+Published: Sofia, September 2013
+Publisher: Faber Publishing, Bulgaria
+Web site: http://www.introprogramming.info
+License: CC-Attribution-Share-Alike (CC-BY-SA)
+
+
+
+Book Description
+----------------
+
+The free book "Fundamentals of Computer Programming with C#" (http://www.introprogramming.info) is a comprehensive computer programming tutorial that teaches programming, logical thinking, data structures and algorithms, problem solving and high quality code with lots of examples in C#. It comes with free video lessons, presentations, exercises and solutions.
+
+This free programming tutorial starts with the first steps in programming and software development like variables, data types, conditional statements, loops and arrays and continues with other basic topics like methods, numeral systems, strings and string processing, exceptions, classes and objects.
+
+After the basics this free fundamental programming book enters into more advanced programming topics like recursion, data structures (lists, trees, hash-tables and graphs), high-quality code, unit testing and refactoring, object-oriented principles (inheritance, abstraction, encapsulation and polymorphism) and their implementation in the C# language. It also covers fundamental topics that each good developer should know like algorithm design, complexity of algorithms and problem solving.
+
+This free programming book uses C# language and Visual Studio to illustrate the programming concepts and explains some C# / .NET specific technologies like lambda expressions, extension methods and LINQ. This free programming C# book is written by a team of developers lead by Svetlin Nakov (http://www.nakov.com) who has 20+ years practical software development experience and 10+ years as software development trainer.
+
+This free book on fundamentals of programming teaches the major programming concepts and way of thinking needed to become a good software engineer and the C# language in the meantime. It is a great start for anyone who wants to become a skillful software engineer. The books does not teach technologies like databases, mobile and web development, but shows the true way to master the basics of programming regardless of the languages, technologies and tools. It is good for beginners and intermediate developers who want to put a solid base for a successful career in the software engineering industry. The book is accompanied by 27 free video lessons on C# programming (42 hours), presentation slides (27 PPTX presentations) and mind maps, as well as hundreds of exercises with solutions and live examples.
+
+Download the free C# programming book, videos, presentations and other resources from http://introprogramming.info.
+
+Tags: free, programming, book, computer programming, programming fundamentals, ebook, book programming, C#, CSharp, C# book, tutorial, C# tutorial; programming concepts, programming fundamentals, compiler, Visual Studio, .NET, .NET Framework, data types, variables, expressions, statements, console, conditional statements, control-flow logic, loops, arrays, numeral systems, methods, strings, text processing, StringBuilder, exceptions, exception handling, stack trace, streams, files, text files, linear data structures, list, linked list, stack, queue, tree, balanced tree, graph, depth-first search, DFS, breadth-first search, BFS, dictionaries, hash tables, associative arrays, sets, algorithms, sorting algorithm, searching algorithms, recursion, combinatorial algorithms, algorithm complexity, OOP, object-oriented programming, classes, objects, constructors, fields, properties, static members, abstraction, interfaces, encapsulation, inheritance, virtual methods, polymorphism, cohesion, coupling, enumerations, generics, namespaces, UML, design patterns, extension methods, anonymous types, lambda expressions, LINQ, code quality, high-quality code, high-quality classes, high-quality methods, code formatting, self-documenting code, code refactoring, problem solving, problem solving methodology, 9789544007737, 9544007733
+
+
+
+Table of contents
+-----------------
+
+Preface
+Chapter 1. Introduction to Programming
+Chapter 2. Primitive Types and Variables
+Chapter 3. Operators and Expressions
+Chapter 4. Console Input and Output
+Chapter 5. Conditional Statements
+Chapter 6. Loops
+Chapter 7. Arrays
+Chapter 8. Numeral Systems
+Chapter 9. Methods
+Chapter 10. Recursion
+Chapter 11. Creating and Using Objects
+Chapter 12. Exception Handling
+Chapter 13. Strings and Text Processing
+Chapter 14. Defining Classes
+Chapter 15. Text Files
+Chapter 16. Linear Data Structures
+Chapter 17. Trees and Graphs
+Chapter 18. Dictionaries, Hash-Tables and Sets
+Chapter 19. Data Structures and Algorithm Complexity
+Chapter 20. Object-Oriented Programming Principles
+Chapter 21. High-Quality Programming Code
+Chapter 22. Lambda Expressions and LINQ
+Chapter 23. Methodology of Problem Solving
+Chapter 24. Sample Programming Exam – Topic #1
+Chapter 25. Sample Programming Exam – Topic #2
+Chapter 26. Sample Programming Exam – Topic #3
+Conclusion
+
+
+
+
+All Tags
+--------
+book; free book; ebook; e-book; programming; computer programming; programming concepts; programming principles; tutorial; C#; data structures; algorithms; Intro C#; C# book; book C#; CSharp; CSharp book; programming book; book programming; textbook; learn C#; study C#; learn programming; study programming; how to program; programmer; practical programming guide; software engineer; software engineering; computer programming; software developer; software technologies; programming techniques; logical thinking; algorithmic thinking; developer; software development; programming knowledge; programming skills; programming language; basics of programming; presentations; presentation slides; coding; coder; source code; compiler; development tools; code decompiler; JustDecompile; debugging code; debugger; Visual Studio; IDE; development environment; bug fixing; class library; API; C#; .NET; .NET Framework; types; variables; operators; expressions; statements; value types; reference types; type conversion; console; console input; console output; console application; conditional statements; if; if-else; switch-case; loops; whole; do-while; for loops; foreach; nested loops; arrays; matrices; multidimensional arrays; numeral systems; binary numbers; decimal numbers; hexadecimal numbers; representations of numbers; methods; method invocation; parameters; recursion; iteration; recursive algorithms; classes; objects; fields; constructors; properties; static fields; static methods; static constructor; static members; namespaces; exceptions; exception handling; stack trace; catch exception; throw exception; try-catch; try-finally; using statement; strings; text processing; StringBuilder; escaping; System.String; regular expressions; string formatting; OOP; object-oriented programming; access modifiers; public; private; protected; internal; this keyword; const fields; readonly fields; default constructor; implicit constructor; overloading; method overloading; constructor overloading; automatic properties; read-only properties; constants; enumerations; inner classes; nested classes; generics; generic types; generic methods; text files; streams; files; StreamReader; StreamWriter; data structures; ADT; abstract data structure; linear data structures; list; linked list; static list; doubly-linked list; array list; stack; queue; deque; trees; graphs; binary tree; binary search tree; balanced tree; balanced search tree; B-tree; red-black tree; tree traversal; ordered balanced search tree; graph representation; list of edges; list of successors; adjacency matrix; depth-first search; DFS; breadth-first search; BFS; dictionary; hash table; associative array; hash function; collision resolution; set; multi set; bag; multi bag; multi dictionary; algorithm complexity; asymptotic notation; time complexity; memory complexity; execution time; performance; collection classes; .NET collections; Wintellect Power Collections; OOP; principles; abstraction; encapsulation; polymorphism; abstract class; interface; operation contract; virtual method; method overriding; cohesion; strong cohesion; coupling; loose coupling; spaghetti code; object-oriented modeling; UML; use-case diagram; sequence diagram; statechart diagram; activity diagram; design patterns; singleton; factory method; code quality; high-quality code; code conventions; naming identifiers; variable names; method names; naming classes; code formatting; high-quality classes; high-quality methods; variable scope; variable span; variable lifetime; control-flow statements; defensive programming; assertions; code documentation; documentation; self-documenting code; code refactoring; lambda expressions; LINQ; extension methods; anonymous types; LINQ queries; data filtering; data searching; data sorting; data grouping; problem solving; problem solving methodology; problems and solutions; generating ideas; task decomposition; algorithm efficiency; writing code; code testing; border cases testing; borderline cases; performance testing; regression testing; exercises; problems; solutions; programming guidelines; programming problems; programming exercises; good programmer; efficient programmer; pragmatic programmer; Nakov; Svetlin Nakov; Software Academy; Software University; Bulgaria; Bulgarian book; BG book; Bulgarian C# book; Kolev; Vesselin Kolev; Dilyan Dimitrov; Hristo Germanov; Iliyan Murdanliev; Mihail Stoynov; Mihail Valkov; Mira Bivas; Nikolay Kostov; Nikolay Nedyalkov; Nikolay Vassilev; Pavel Donchev; Pavlina Hadjieva; Radoslav Ivanov; Radoslav Kirilov; Radoslav Todorov; Stanislav Zlatinov; Stefan Staev; Teodor Bozhikov; Teodor Stoev; Tsvyatko Konov; Vesselin Georgiev; Yordan Pavlov; Yosif Yosifov, 9789544007737, 9544007733, ISBN 978-954-400-773-7, ISBN 954-400-773-3
+
+
+Most Important Tags
+-------------------
+programming, book, free, free book, computer programming, programming fundamentals, ebook, book programming, C#, CSharp, C# book, tutorial, C# tutorial; programming concepts, programming fundamentals, compiler, Visual Studio, .NET, .NET Framework, data types, variables, expressions, statements, console, conditional statements, control-flow logic, loops, arrays, numeral systems, methods, strings, text processing, StringBuilder, exceptions, exception handling, stack trace, streams, files, text files, linear data structures, list, linked list, stack, queue, tree, balanced tree, graph, depth-first search, DFS, breadth-first search, BFS, dictionaries, hash tables, associative arrays, sets, algorithms, sorting algorithm, searching algorithms, recursion, combinatorial algorithms, algorithm complexity, OOP, object-oriented programming, classes, objects, constructors, fields, properties, static members, abstraction, interfaces, encapsulation, inheritance, virtual methods, polymorphism, cohesion, coupling, enumerations, generics, namespaces, UML, design patterns, extension methods, anonymous types, lambda expressions, LINQ, code quality, high-quality code, high-quality classes, high-quality methods, code formatting, self-documenting code, code refactoring, problem solving, problem solving methodology, 9789544007737, 9544007733
+
+
+
+About the Author
+----------------
+Svetlin Nakov has 20+ years technical background as software engineer, software project manager, consultant, trainer, and entrepreneur with rich experience with the .NET and Java EE platforms, information systems, databases, Web development and software engineering.
+
+He is author of 7 books about computer programming and software technologies, C# and Java, and tens of technical and scientific publications. Svetlin has been a speaker at hundreds of conferences, seminars, courses and other trainings. He holds a PhD degree in computer science, medals from the International Informatics Olympiads (IOI) and the Bulgarian President’s award “John Atanassoff”. He has been a part-time lecturer in Sofia University, New Bulgarian University and the Technical University of Sofia.
+
+Currently Svetlin drives the largest training center for software engineers in Bulgaria – Software University (http://softuni.bg) where he teaches thousands of young people in computer science, software development and information technologies.
+
+Learn more about Svetlin Nakov at his web site: http://www.nakov.com.
+
+
+
+Categories
+----------
+programming
+computer programming
+C#
+Visual Studio
+.NET
+algorithms
+data structures
+object-oriented programming
+quality code
+software development
+software engineering
+
+
+Features
+--------
+Book: learn programming and C# by reading the free book, trying the examples and working on the practical exercises after each chapter
+Videos: learn programming and C# by watching the free video lessons and live demos and working on the practical exercises after each book chapter
+Presentations: teach programming and C# using the free C# programming PowerPoint presentation slides and live demos (C# code examples)
+Downloads: download the free C# programming book as PDF, ePub, Mobi (Kindle), DOCX, HTML and other popular e-book formats
+Mind Maps: quickly review the free programming book content as mind maps covering the entire book and each chapter separately
+C# and Java: the free programming book is available in English and Bulgarian language covering C# and Java programming languages
+
+
+
+
+Short phrases
+-------------
+
+Master computer programming and the C# language: a step-by-step tutorial with exercises, videos and presentations
+
+Free Book “Fundamentals of Computer Programming with C#” (the Bulgarian C# Book by Svetlin Nakov & Co.)
+
+Free programming video lessons - learn computer programing, C#, data structures and algorithms

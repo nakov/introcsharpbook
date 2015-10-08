@@ -1,0 +1,39 @@
+[Done] Titles Capitalization - do it according these guidelines: http://www.writersblock.ca/tips/monthtip/tipmar98.htm
+ - Uppercase: Is, Are, They, Them, It, That, Who, Where, Yes, No, More, Most, As, Although, So, Because, Not, Another
+ - Lowercase: the, a, and, or, nor, neither, in, between, after, before, at, on, for, to, into, through, from, by, about, but, yet, than, with, within, during
+
+[Done] Fix anything in Yellow color (Highlighted Text)
+
+[Done] Fix all TODOs
+
+[Done] Delete spaces at the end of the paragraph ( ^p)
+
+[Done] Change double space "  " with single space " "
+
+[Done] Change: picture --> figure
+
+[Done] Add the ads of our sponsor (Telerik Academy) 
+
+[Done] Delete any styles that are available but not used in the book.
+
+[Done] Change all screenshots to VS 2012
+
+[Done] Update the content to VS 2012, C# 5, .NET 4.5
+
+[Done] Make bold the most important phrases in the text
+
+[Done] Pass all the text through the Spell Checker.
+
+[Done] Fix English short forms / long forms (where it is appropriate): I'm, you're, we're, they're, it's, let's, that's, can't, aren't, isn't, wasn't, weren't, hadn't, mustn't, don't, doesn't, I've, we've, you've, they've, haven't, hasn't, I'd, you'd, we'd, couldn't, shouldn't, won't, I'll, you'll, we'll, they'll, didn't, ...
+
+[Done] Manual check of all chapters for formatting issues (like almost empty page, new chapter starting at left page, etc.)
+
+[Done] Bold the keywords in the text in the Exercises, Solutions and Guidelines.
+
+[Done] Check all the exercises and solution guidelines. Read the text and fix any bugs / problems. This will take too much time to be done carefully so it is done but not in deep details.
+ 
+[Done] Check for Java-style classes: HashMap, Map, java.lang...
+
+[Done] Да се оправят всички докладвани бъгове в книгата (https://introcsharpbook.googlecode.com/svn/trunk/bugs/open)
+
+[Done] Да се добавят новите участници в проекта: https://docs.google.com/a/nakov.com/spreadsheet/ccc?key=0AlaeRe6arPugdGNHcjB5RHhHaExpcHdfVk13N1pySWc#gid=3

@@ -1,0 +1,184 @@
+[done] 1) Print-on-demand - да се потърси решение за продажба на книгата на хартия
+ - имаме договорка с Faber Publishing (Велико Търново) за разпространение от техния онлайн магазин
+ - http://www.introprogramming.info/english-intro-csharp-book/order/
+
+[done] 2) Да се регистрира книгата в Amazon (за продажба на минимална цена)
+http://www.amazon.com/Fundamentals-Computer-Programming-programming-books-ebook/dp/B00FIMIYSA
+-- add some reviews!
+
+Да се добави тука книгата:
+http://it-ebooks.info/tag/programming/
+
+3) Да се направи Google+ акаунт и да се публикува инфо за книгата
+
+4) Да се направи Twitter hash-tag акаунт и да се постват новини за книгата
+
+5) Наков да блогне на неговия сайт
+
+6) Наков да пише мейл на всички автори да блогват и споделят
+
+[discarded] 7) Наков да търси съдействие от Телерик евангелистите да блогнат
+
+8) Наков да организира парти за участниците в проекта
+
+9) Да се наспамят форумите - да се пусне новина във всички по-важни форуми за прогамиране (най-вече на английски език)
+
+10) Да се обяви награда 5 бонус точки за всяка статия на английски език относно C# книгата в страница или блог, индексиран от Google + шернат в Google+, Facebook и Twitter
+
+11) Да се качи книгата в Wikibooks.org (пример: http://en.wikibooks.org/wiki/C_Sharp_Programming)
+
+[done] 12) Да се качи книгата в SlideShare.net
+http://www.slideshare.net/nakov/fundamentals-of-computer-programming-with-c-the-bulgarian-c-programming-book
+-- add some comments / reviews!
+
+[done] 13) Да се качи книгата в archive.org
+http://archive.org/details/Fundamentals-Of-Computer-Programming-with-CSharp-Svetlin-Nakov-ebook-v2013
+
+[done] 14) Да се качи книгата в Scribd
+http://www.scribd.com/doc/171518556/
+
+[done] 15) docstoc.com
+http://www.docstoc.com/docs/160996834/
+
+[done] 16) authorstream.com - не поддържат качване на PDF
+
+[done] 17) Google Books - https://play.google.com/books/publish/
+-- add some reviews!
+http://books.google.bg/books/about/Fundamentals_of_Computer_Programming_with_CSharp_Nakov.html?id=xYgCAQAAQBAJ
+
+[done] 18) freecomputerbooks.com
+http://freecomputerbooks.com/Fundamentals-of-Computer-Programming-with-C-Sharp.html
+
+[done] 19) e-booksdirectory.com
+http://www.e-booksdirectory.com/details.php?ebook=9437
+
+[done] 20) Lulu.com
+http://www.lulu.com/shop/svetlin-nakov/fundamentals-of-computer-programming-with-csharp/ebook/product-21258346.html
+http://www.lulu.com/spotlight/csharpfundamentals
+
+[done] 21) http://www.amazonkdp.com - Publish to Kindle
+http://www.amazon.co.uk/Fundamentals-Computer-Programming-programming-books-ebook/dp/B00FIMIYSA
+
+[done] 22) http://openlibrary.org
+http://openlibrary.org/books/OL25431430M/Fundamentals_of_Computer_Programming_with_C
+http://openlibrary.org/works/OL16807323W/Fundamentals_of_Computer_Programming_with_CSharp_Free_Book_(by_Nakov_Co.)
+
+[done] 23) Kindle Store - https://kdp.amazon.com/self-publishing/dashboard
+http://www.amazon.com/Fundamentals-Computer-Programming-programming-books-ebook/dp/B00FIMIYSA
+
+24) Goodreads - http://www.goodreads.com
+Needs some reviews and comments:
+https://www.goodreads.com/book/show/18682439
+
+25) http://www.librarything.com
+
+26) http://www.gutenberg.org
+
+27) http://www.bookcrossing.com
+
+[done] 28) bookfinder4u.com
+http://www.bookfinder4u.com/detail/B00FIMIYSA.html
+
+[done] 29) Shelfari (by Amazon)
+http://www.shelfari.com/books/36733133/Fundamentals-of-Computer-Programming-with-CSharp-Nakov
+
+30) Smashwords - https://www.smashwords.com
+
+31) http://www.worldcat.org
+
+32) http://manybooks.net
+
+33) Да се добави книгата тук: http://bookboon.com/en/c-cpp-csharp-ebooks
+
+34) http://programming-motherfucker.com/become.html#C#
+
+35) http://www.freeprogrammingresources.com/csharp-books.html
+
+37) http://www.ebook3000.com/Programming/
+
+38) http://it-ebooks.info/
+
+39) http://appsapps.com/ebooks/?cat=10
+
+40) http://social.msdn.microsoft.com/Forums/en-US/5173de3d-5d5b-4b93-87a7-057d5241a02c/free-download-c-ebook
+
+41) http://readwrite.com/2011/05/28/free-e-books-on-c#awesm=~ojc5LWpTWNfSDN
+
+42) http://cplus.about.com/od/codelibrary/a/free-ebooks.htm, http://cplus.about.com/od/freeebookscprogrammi2/Free_EBooks_for_C_Programming.htm
+
+43) http://www.dmoz.org/Computers/Programming/Languages/C-sharp/Books/
+
+44) http://c-school-ebook.softpedia.com
+
+45) Да се направи Windows Desktop App + Installer за книгата (3-4 иконки: книга, PDF, видео, презентации) и да се качи тука:
+ - http://www.freewarefiles.com
+ - http://download.cnet.com
+ - http://www.snapfiles.com
+ - http://filehippo.com
+ - http://tucows.com
+ - http://www.kaldata.com
+ - http://www.softpedia.com
+ - http://www.freewarefiles.com
+ - http://www.majorgeeks.com
+ - http://www.download3000.com
+ - http://downloads.zdnet.com
+ - http://en.softonic.com
+ - http://www.afterdawn.com
+ - http://sourceforge.net
+ - http://www.pcworld.com/category/software/
+ - http://portableapps.com
+ - http://www.filehorse.com
+ - http://www.superfiles.com
+ - http://www.4shared.com
+ - http://www.gooofull.net
+ - http://www.downloadcrew.com
+ - http://softwaresolution.informer.com
+ - http://www.portablefreeware.com
+ - http://www.tomsguide.com/us/download/
+ - http://portableapps.com/apps/
+ - http://www.soft32.com
+ - http://www.oldapps.com
+ - ...
+
+46) Да се направи Mobile app за книгата (3-4 иконки: книга, PDF, видео, презентации) и да се качи тука:
+ - https://play.google.com/store/
+[done] https://play.google.com/store/apps/details?id=nakov.introprogramming
+ - http://www.windowsstore.com
+[app rejected]
+ - https://itunes.apple.com/us/genre/ios/id36?mt=8
+ 
+[done] The book in the Google Playstore (Android market):
+https://play.google.com/store/apps/details?id=nakov.introprogramming
+ 
+[done] 46) http://thepiratebay.org
+http://thepiratebay.org/torrent/9004274/Fundamentals_of_Computer_Programming_with_Csharp_Nakov_eBook_v2013
+
+[done] 47) http://www.onlineprogrammingbooks.com
+http://www.onlineprogrammingbooks.com/fundamentals-computer-programming-c/
+
+48) http://www.freetechbooks.com
+
+[done] 49) http://www.free-ebooks.net
+http://www.free-ebooks.net/ebook/Fundamentals-of-Computer-Programming-with-C
+
+[done] 50) Code Project
+http://www.codeproject.com/Tips/315638/List-of-freely-available-programming-books?msg=4672824#xx4672824xx
+
+51) Да се пробва на Амазон услугата за публикуване на книги: https://www.createspace.com
+
+52) Edit the site content at https://code.google.com/p/introcsharpbook/
+
+53) Да кача Java книгата в Kindle store, както е направено за тази:
+http://www.amazon.com/x412-x44A-x432-Romansh-Edition-ebook/dp/B00FL18I5W
+
+54) Write a review here: http://thepiratebay.sx/torrent/9004274/
+This programming C# book in fact is free and anyone could download it as PDF, epub and mobi from its site: http://www.introprogramming.info. It also has free video lessons on C# and programming and presentation slides.
+
+55) След като блогна за книгата, да помоля приятели, студенти, читатели и фенове да споделят чрез този tool:
+http://linksy.me
+
+56) http://www.biblio.com
+
+57) 
+
+58) 
