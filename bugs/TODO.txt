@@ -1,0 +1,14 @@
+Add the "Automatic Properties" section in "Chapter 14. Defining Classes" to the Bulgarian C# book. Take it from the English version.
+
+In chapter 5:
+
+string str = "beer";
+string thirdStr = "be" + 'e' + 'r';
+Console.WriteLine((object)str == (object)thirdStr); // False
+
+In the old compilers the result is "False". In VS2015 it gives "True";
+
+string str = "beer";
+string thirdStr = "beе" + 'r';
+thirdStr += 'r';
+Console.WriteLine((object)str == (object)thirdStr); // False
