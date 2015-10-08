@@ -1,0 +1,8 @@
+Intro C# Book
+-------------
+
+Project development Web site: http://code.google.com/p/introcsharpbook/
+SVN URL: http://introcsharpbook.googlecode.com/svn/trunk/ (use https for non-annonymous access)
+Project public Web site: http://www.introprogramming.info
+Discussion group: http://groups.google.com/group/introcsharpbook 
+Discussion group email: introcsharpbook@googlegroups.com 
