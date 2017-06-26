@@ -1,0 +1,19 @@
+From: J.J.P. (Hans) Zijlstra
+Date: 26-June-2017
+
+As promised, find attached a commented MS Word 2013 file of Chapter 14, from the book ‘Fundamentals of Computer Programming with C#’, with tracked changes and a pdf copy with tracked changes accepted.
+
+As concerns the spelling and grammar, I gained some experience during regularly reviewing papers for American scientific journals, however, I do not claim perfection. I have tried to change as little as possible in your text and used the following rules
+
+For a more dynamic text, simple present and present progressive tense are used, wherever possible.
+Sometimes, the order in the sentence is changed.
+Sentences are simplified wherever possible.
+Where changes might affect meaning, a comment is added.
+
+To save time, suggestions for change are not that much discussed and clarified. The last part of the chapter concerning the exercises still awaits a more thorough review, but that requires that I first do the exercises.
+
+Please note, a paragraph title has been moved and the wording of titles has been changed, which affects the table of contents. Unfortunately, when using the entire document, the position of my cursor and mouse pointer did no longer coincide. Therefore, I had to extract the chapter and consequently break the hyperlinks in the text.
+
+Hopefully, you find the result acceptable and of any help. Available for discussion and clarification, I remain with kind regards,
+
+Hans
