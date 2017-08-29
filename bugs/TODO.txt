@@ -12,3 +12,9 @@ string str = "beer";
 string thirdStr = "beе" + 'r';
 thirdStr += 'r';
 Console.WriteLine((object)str == (object)thirdStr); // False
+
+
+
+------------------------
+
+To merge the chapter 20 bugs from (Hans) Zijlstra.
