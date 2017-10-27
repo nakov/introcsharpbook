@@ -74,3 +74,6 @@
  
 # Официален уеб сайт
 Посетете официалният уеб сайт на книгата "Въведение в програмирането със C#": http://introprogramming.info.
+
+# Няма commit logs
+Проектът беше разработен в Google Code, а по-късно беше мигриран към GitHub. При миграцията се изгубиха commit logs. Може да ги прегледате тук: https://code.google.com/archive/p/introcsharpbook/source/default/commits.
