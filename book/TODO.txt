@@ -20,12 +20,15 @@ https://docs.google.com/spreadsheets/d/1_N5nVzesLvN2W4cJqizctWBG781Th_rrvbG5sv84
 [done] Глава 4. Вход и изход от конзолата
 Обновяване към C# 7 и VS 2017. Интерполирани низове: $"{LastName}, {FirstName}"
 
-Глава 9. Методи
-"Обновяване към C# 7 и VS 2017. Да се добави за връщане на Tuple (има го в другата книга) + local methods. Default parameter values"
-Глава 14. Дефиниране на класове
-"Обновяване към C# 7 и VS 2017. Функционален стил методи: public override string ToString() => $""{Name}""; Automatic Properties"
+[done] Глава 9. Методи
+Обновяване към C# 7 и VS 2017. Да се добави за връщане на Tuple (има го в другата книга) + local methods. Default parameter values
+
+[done] Глава 14. Дефиниране на класове
+Обновяване към C# 7 и VS 2017. Функционален стил методи. Метод ToString(): public override string ToString() => $"{Name}"; Automatic Properties
+
 Глава 17. Дървета и графи
 Обновяване към C# 7 и VS 2017. Да се обнови в синхрон с английската C# книга.
+
 Глава 18. Речници, хеш-таблици и множества
 Обновяване към C# 7 и VS 2017. Да се обнови в синхрон с английската C# книга.
 Глава 23. Как да решаваме задачи по програмиране?
